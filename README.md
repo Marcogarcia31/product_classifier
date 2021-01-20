@@ -728,7 +728,7 @@ The workflow for **Bag of Visual Words** is as follows:
 * The **model performance** is **strong** and its **deployment** would surely bring **value** to the **platform**
 
 
-* Further research shall try to **optimize** the **feature extraction methods** (eg. train CNNs parameters) &  the estimators' **hyperparameters**
+* Further research shall try to **optimize** the **feature extraction methods** (eg. train Deep learning models parameters) &  the estimators' **hyperparameters**
 
 
 
