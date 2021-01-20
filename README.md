@@ -74,7 +74,7 @@
 
 
 
-* First category feature has **7 levels** and samples are **perfectly balanced** accross labels
+* First category feature has **7 levels** and samples are **uniformly balanced** accross labels
 
 
 * Next levels of features have more labels, and with some of them represented by a **very few number** of **samples**
