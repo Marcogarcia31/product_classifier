@@ -31,10 +31,10 @@
     * Term-frequency inverse document-frequency
     * LDA
 
-* trained linear and non-linear estimators on extracted features and compared their performance on a validation set
+* trained linear and non-linear estimators on **extracted features** and compared their performance on a **validation** set
 
 
-* built a model implementing the optimal approach (feature extraction method and estimator) and concluded on the model's performance generalization by predicting the samples of the test set
+* built a **model** implementing the **optimal approach** (feature extraction method and estimator) and concluded on the model's performance **generalization** by **predicting** the samples of the **test** set
  
    
 
