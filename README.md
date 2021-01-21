@@ -732,4 +732,4 @@ The workflow for **Bag of Visual Words** is as follows:
 
 
 
-#### The notebook is accessible [here](Notebook.ipynb). The notebook may be run immediately after **unzipping** the Data file.  
+#### The notebook is accessible [here](Notebook.ipynb). 
